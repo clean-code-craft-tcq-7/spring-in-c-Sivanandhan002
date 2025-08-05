@@ -1,7 +1,7 @@
 #include "stats.h"
 
 #include "gtest/gtest.h"
-#include <math.h>
+#include <math.h> 
 
 TEST(Statistics, ReportsAverageMinMax) {
     float values[] = {1.5, 8.9, 3.2, 4.5};
